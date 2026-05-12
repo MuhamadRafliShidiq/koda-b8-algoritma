@@ -2,12 +2,37 @@
 
 ## Algotrima Luas dan Keliling Lingkaran
 
+## Deskriptif
+
 Membuat Algoritma menghitung luas dan keliling lingkaran
 
 1. Mulai
-2. definisikan konstanta TT = 3,14
-3. masukan luas jari-jari lingkaran
-4. definisikan rumus luas lingkaran yaitu Luas = 3,14 x r x r
-5. definisikan rumus keliling lingkaran K = 2 x 3,14 x r
+2. definisikan konstanta phi dengan 3,14
+3. masukan nilai jari jari lingkaran
+4. definisikan rumus luas lingkaran yaitu Luas dengan 3,14 dikali jari-jari pangkat dua
+5. definisikan rumus keliling lingkaran dengan 2 dikali 3,14 dikali nilai jari-jari
 6. Tampilkan hasil luas dan keliling lingkaran
 7. selesai
+
+## Flowchart
+
+Membuat Algoritma menghitung luas dan keliling lingkaran
+
+```mermaid
+
+    flowchart TD
+
+    a@{ shape: circle, label: "Mulai" }
+    b@{ shape: lean-r, label: "TT = 3,14" }
+    c@{ shape: lean-r, label: " jari-jari = r" }
+    d@{ shape: rect, label: "L = 3,14 x r x r dan K = 2 x 3,14 x r" }
+    e@{ shape: lean-r, label: "'L dan K'" }
+    f@{ shape: dbl-circ, label: "Stop" }
+
+    a --> b
+    b --> c
+    c --> d
+    d --> e
+    e --> f
+
+```
