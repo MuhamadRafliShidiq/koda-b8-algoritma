@@ -23,8 +23,8 @@ Membuat Algoritma menentukan bilangan ganjil atau genap
     b@{ shape: lean-r, label: "bilangan" }
     c@{ shape: rect, label: "sisabagi = bilangan%2" }
     d@{ shape: diamond, label: "sisabagi == 0 " }
-    e@{ shape: lean-r, label: "'Bilangan Genap'" }
-    f@{ shape: lean-r, label: "'Bilangan Ganjil'" }
+    e@{ shape: lean-r, label: ""Bilangan Genap"" }
+    f@{ shape: lean-r, label: ""Bilangan Ganjil"" }
     g@{ shape: dbl-circ, label: "Stop" }
 
     a --> b
