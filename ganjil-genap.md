@@ -20,7 +20,7 @@ Membuat Algoritma menentukan bilangan ganjil atau genap
     flowchart TD
 
     a@{ shape: circle, label: "Mulai" }
-    b@{ shape: lean-r, label: "Input bilangan" }
+    b@{ shape: lean-r, label: "bilangan" }
     c@{ shape: rect, label: "sisabagi = bilangan%2" }
     d@{ shape: diamond, label: "sisabagi = 0 " }
     e@{ shape: lean-r, label: "'Bilangan Genap'" }
