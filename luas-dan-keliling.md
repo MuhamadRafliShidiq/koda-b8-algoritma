@@ -23,12 +23,12 @@ Membuat Algoritma menghitung luas dan keliling lingkaran
     flowchart TD
 
     a@{ shape: circle, label: "Mulai" }
-    b@{ shape: lean-r, label: "TT = 3,14" }
-    c@{ shape: lean-r, label: " jari-jari = r" }
-    d@{ shape: rect, label: "L = 3,14 x r x r " }
-    e@{ shape: rect, label: "K = 2 x 3,14 x r " }
-    f@{ shape: lean-r, label: "'L'" }
-    g@{ shape: lean-r, label: "'K'" }
+    b@{ shape: lean-r, label: " jari-jari = r" }
+    c@{ shape: lean-r, label: "phi = 3,14" }
+    d@{ shape: rect, label: "L = phi x r x r " }
+    e@{ shape: rect, label: "K = 2 x phi x r " }
+    f@{ shape: lean-r, label: "'{L}'" }
+    g@{ shape: lean-r, label: "'{K}'" }
     h@{ shape: dbl-circ, label: "Stop" }
 
     a --> b
