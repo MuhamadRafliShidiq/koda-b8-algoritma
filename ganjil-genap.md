@@ -14,7 +14,7 @@ Membuat Algoritma menentukan bilangan ganjil atau genap
 6. selesai
 
 ## Flowchart
-
+Membuat Algoritma menentukan bilangan ganjil atau genap
 ```mermaid
 
     flowchart TD
@@ -34,6 +34,24 @@ Membuat Algoritma menentukan bilangan ganjil atau genap
     d --False--> f
     e --> g
     f --> g
+
+
+
+```
+
+## PSEUDO-CODE
+Membuat Algoritma menentukan bilangan ganjil atau genap
+```pseudo
+
+    DECLARE a: INTEJER
+    
+    INPUT a
+
+    IF a%2 == 0 THEN
+        OUTPUT "Bilangan Genap"
+    ELSE 
+        OUTPUT "Bilangan Ganjil"
+    ENDIF
 
 
 
