@@ -49,7 +49,7 @@ Membuat Algoritma menghitung luas dan keliling lingkaran
     DECLARE r: INTEGER
     DECLARE L: INTEGER
     DECLARE K: INTEGER
-    CONSTANT phi : 3,14
+    CONSTANT phi = 3,14
 
     INPUT r
     L <-- phi * r * r
