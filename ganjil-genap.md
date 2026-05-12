@@ -43,13 +43,13 @@ Membuat Algoritma menentukan bilangan ganjil atau genap
 Membuat Algoritma menentukan bilangan ganjil atau genap
 ```pseudo
 
-    DECLARE a: INTEJER
-    
-    INPUT a
+    DECLARE Bilangan: INTEJER
 
-    IF a%2 == 0 THEN
+    INPUT Bilangan
+
+    IF Bilangan%2 == 0 THEN
         OUTPUT "Bilangan Genap"
-    ELSE 
+    ELSE
         OUTPUT "Bilangan Ganjil"
     ENDIF
 
