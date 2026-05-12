@@ -25,14 +25,16 @@ Membuat Algoritma menghitung luas dan keliling lingkaran
     a@{ shape: circle, label: "Mulai" }
     b@{ shape: lean-r, label: "TT = 3,14" }
     c@{ shape: lean-r, label: " jari-jari = r" }
-    d@{ shape: rect, label: "L = 3,14 x r x r dan K = 2 x 3,14 x r" }
-    e@{ shape: lean-r, label: "'L dan K'" }
-    f@{ shape: dbl-circ, label: "Stop" }
+    d@{ shape: rect, label: "L = 3,14 x r x r " }
+    e@{ shape: rect, label: "K = 2 x 3,14 x r " }
+    f@{ shape: lean-r, label: "'L dan K'" }
+    g@{ shape: dbl-circ, label: "Stop" }
 
     a --> b
     b --> c
     c --> d
     d --> e
     e --> f
+    f --> g
 
 ```
