@@ -52,7 +52,7 @@ Membuat Algoritma menghitung luas dan keliling lingkaran
     INPUT r
     L <-- phi * r * r
     OUTPUT "{L}""
-    K <-- 2phi * r
+    K <-- 2 * phi * r
     OUTPUT "{K}"
 
 ```
