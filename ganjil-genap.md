@@ -33,6 +33,7 @@ Membuat Algoritma menentukan bilangan ganjil atau genap
     d --True--> e
     d --False--> f
     e --> g
+    f --> g
 
 
 
