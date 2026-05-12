@@ -10,7 +10,7 @@ Membuat Algoritma menentukan bilangan ganjil atau genap
 2. input/masukan bilangan
 3. hitung sisa bagi dari bilangan mod 2
 4. jika hasil sisa bagi nya sama dengan 0 maka Bilangan Genap
-5. jika tidak atau hasil sisa baginya sama dengan 1 maka Bilangan Ganjil
+5. jika tidak maka Bilangan Ganjil
 6. selesai
 
 ## Flowchart
