@@ -7,8 +7,8 @@
 Membuat Algoritma menghitung luas dan keliling lingkaran
 
 1. Mulai
-2. definisikan konstanta phi dengan 3,14
-3. masukan nilai jari jari lingkaran
+2. masukan nilai jari jari lingkaran
+3. definisikan konstanta phi dengan 3,14
 4. definisikan rumus luas lingkaran dengan 3,14 dikali nilai jari-jari pangkat dua
 5. definisikan rumus keliling lingkaran dengan 2 dikali 3,14 dikali nilai jari-jari
 6. Tampilkan hasil luas dan keliling lingkaran
