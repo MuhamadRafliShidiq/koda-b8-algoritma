@@ -24,7 +24,7 @@ Membuat Algoritma menghitung luas dan keliling lingkaran
 
     a@{ shape: circle, label: "Mulai" }
     b@{ shape: rect, label: "TT = 3,14" }
-    c@{ shape: lean-r, label: " jari-jari = r" }
+    c@{ shape: lean-r, label: " r" }
     d@{ shape: rect, label: "L = 3,14 x r x r " }
     e@{ shape: rect, label: "K = 2 x 3,14 x r " }
     f@{ shape: lean-r, label: "'{L}'" }
