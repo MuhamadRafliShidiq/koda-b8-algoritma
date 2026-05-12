@@ -43,7 +43,7 @@ Membuat Algoritma menentukan bilangan ganjil atau genap
 Membuat Algoritma menentukan bilangan ganjil atau genap
 ```pseudo
 
-    DECLARE Bilangan: INTEJER
+    DECLARE Bilangan: INTEGER
 
     INPUT Bilangan
 
