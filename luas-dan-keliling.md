@@ -31,9 +31,9 @@ Membuat Algoritma menghitung luas dan keliling lingkaran
     g@{ shape: lean-r, label: "'{K}'" }
     h@{ shape: dbl-circ, label: "Stop" }
 
-    a --> b
-    b --> d
-    d --> c
+    a --> c
+    c --> b
+    c --> d
     d --> e
     e --> f
     f --> g
