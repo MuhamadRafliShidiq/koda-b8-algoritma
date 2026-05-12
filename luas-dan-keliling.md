@@ -47,8 +47,8 @@ Membuat Algoritma menghitung luas dan keliling lingkaran
 
 ```pseudo
     DECLARE r: INTEGER
-    DECLARE L: INTEGER
-    DECLARE K: INTEGER
+    DECLARE L: DOUBLE
+    DECLARE K: DOUBLE
     CONSTANT phi = 3,14
 
     INPUT r
