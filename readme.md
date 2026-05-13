@@ -10,7 +10,7 @@ Memecahkan masalah menghitung total biaya parkir
 4. hitung durasi dengan jika jamKeluar kurang dari jamMasuk maka 24 dikurangi jamMasuk ditambah jamKeluar
 5. jika durasi kurang dari sama dengan 1 jam maka biaya untuk motor 2000, dan untuk mobil 5000
 6. jika durasi lebih dari 1 jam untuk motor maka totalBiaya dengan 2000 ditambahkan dengan hasil dari durasi dikurang 1 dikali 1000
-7. jika untuk mobil maka totalBiaya dengan 5000 ditambahkan dengan hasil dari durasi dikurang 1 dikali 3000
+7. jika untuk mobil maka totalBiaya dengan 5000 ditambahkan dengan hasil dari durasi dikurang 1 dikali 2000
 8. Tampilkan totalBiaya parkir
 9. selesai
 
